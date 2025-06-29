@@ -58,7 +58,7 @@ In this course, You’ll learn how to:
 
 ```bash
 # 1. Clone the repo
-git clone [https://github.com/FullStackEmpire/gsap-awwwards-website.git](https://github.com/FullStackEmpire/gsap-awwwards-website.git)
+git clone https://github.com/im-sanny/gsap-web.git
 
 # 2. Install dependencies
 npm install
